@@ -57,6 +57,15 @@ n### **whatbroke.today**
 
 Fully managed cloud-based monitoring platforms that require no infrastructure setup.
 
+### **AcumenLogs**
+- First class Uptime monitoring
+- **Key features:**
+    - API monitoring
+    - WHOIS & SSL monitoring
+    - Global Uptime Monitoring
+    - Status pages
+- 🔗 [acumenlogs.com](https://www.acumenlogs.com)
+
 ### **Pingdom**
 - Industry-leading website monitoring with synthetic checks and real user monitoring.
 - **Key features:**
@@ -196,6 +205,15 @@ Self-hosted monitoring solutions for complete control and data privacy.
 ## Synthetic Monitoring
 
 Tools that simulate user interactions to test functionality and performance.
+
+### **AcumenLogs Synthetic**
+- First class Synthetic and Uptime monitoring focusing on value over price
+- **Key features:**
+    - Synthetic monitoring using real Chrome
+    - AI prompt based Synthetic journey generation
+    - Lighthouse monitoring
+    - Video recording
+- 🔗 [acumenlogs.com](https://www.acumenlogs.com)
 
 ### **New Relic Synthetics**
 - Enterprise synthetic monitoring with scripted browser tests.
