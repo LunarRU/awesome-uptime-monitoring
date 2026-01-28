@@ -111,6 +111,17 @@ Fully managed cloud-based monitoring platforms that require no infrastructure se
     - Slack, email, and webhook alerts
 - 🔗 [freshping.io](https://www.freshping.io)
 
+### **UptimeObserver**
+- Uptime monitoring that catches problems before they cost you money.
+- **Key features:**
+    - 20 monitors on free plan
+    - Website monitoring
+    - Domain name monitoring
+    - SSL monitoring
+    - DNS monitoring
+    - Multiple integrations including Slack, Telegram, Discord, Ntfy, Webhooks and more
+- 🔗 [uptimeobserver.com](https://uptimeobserver.com)
+
 ---
 
 ## Open-Source & Self-Hosted Tools
