@@ -45,6 +45,15 @@ This list is designed for developers, SREs, DevOps engineers, founders, and anyo
 ---
 
 ## Hosted / SaaS Monitoring Tools
+n### **whatbroke.today**
+- AI-powered outage aggregator that monitors 100+ cloud services and sends alerts when they go down.
+- **Key features:**
+    - Monitors AWS, Vercel, Stripe, GitHub, Cloudflare, and 100+ services
+    - AI-generated incident summaries
+    - Real-time Telegram alerts (@whatbroketoday)
+    - RSS feed for DevOps workflows
+    - Free to use
+- 🔗 [whatbroke.today](https://whatbroke.today)
 
 Fully managed cloud-based monitoring platforms that require no infrastructure setup.
 
